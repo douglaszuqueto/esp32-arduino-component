@@ -2,7 +2,7 @@
 
 Utilização do Arduino component em conjunto com ESP-IDF
 
-## ìndice
+## Índice
 
 ## Preparando o ambiente
 
